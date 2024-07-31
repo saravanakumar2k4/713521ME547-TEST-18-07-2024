@@ -114,6 +114,7 @@ footer {
 
 .footer-links ul li a:hover {
     text-decoration: underline;
+    
 }
 
 .copyright {
@@ -128,7 +129,7 @@ footer {
 }
 
 .product:hover{
-    scale: 1.2;
+    scale: 1.1;
     transition: 0.9s;
     color: rgb(30, 70, 201);
 
@@ -142,7 +143,7 @@ input{
 }
 
 .co:hover{
-    scale: 1.2;
+    scale: 1;
     transition: 0.9s;
     color: rgb(244, 242, 239);
 }
